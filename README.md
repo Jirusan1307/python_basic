@@ -1,2 +1,2 @@
-# python_basic
-test_to use gitup
+# python_basic 
+test
